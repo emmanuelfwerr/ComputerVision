@@ -1,6 +1,19 @@
 ## Welcome to my Computer Vision repository
 
-Some nice things...
+In this repository you will find documentation and code files for two distinct projects regarding implementation of Computer Vision algorithms using MATLAB. These projects were completed and submitted for credit in a 400 level Computer Vision course at The Pennsylvanina State University. 
+
+### Template Matching
+
+The goal of this project was to implement template matching for the detection of objects in
+images. One of the most common tasks in computer vision is object detection; be it cars, faces,
+motion capture markers, or in this case airplanes.
+
+Specifically, the goal was to detect airplanes from a satellite view. In this project we were
+provided Google Earth images of airplane depots, with the goal of implementing a template
+matching based algorithm to detect and count the airplanes in each image.
+
+For a detailed quantitative and qualitative report on the results of this project, please click 
+on the "View on GitHub" icon at the top of this screen and navigate to Project 1 > Documentation > EE_454_Project_1.pdf
 
 ### Multiview Projection
 
