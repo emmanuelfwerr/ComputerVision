@@ -34,11 +34,6 @@ myFolder_arenaA = '/Users/gursahejsingh/Desktop/PSU/Fall 2018 PSu/CMPEN 454/Proj
 lambda_arenaA = 35;
 arenaA = computeAlgos(myFolder_arenaA, lambda_arenaA);
 
-%% arenaN
-myFolder_arenaN = '/Users/gursahejsingh/Desktop/PSU/Fall 2018 PSu/CMPEN 454/Project 3/DataSets/ArenaN';
-lambda_arenaN = 35;
-arenaN = computeAlgos(myFolder_arenaN, lambda_arenaN);
-
 %% arenaW
 myFolder_arenaW = '/Users/gursahejsingh/Desktop/PSU/Fall 2018 PSu/CMPEN 454/Project 3/DataSets/ArenaW';
 lambda_arenaW = 35;
