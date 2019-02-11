@@ -1,6 +1,6 @@
 ## Welcome to my Computer Vision repository
 
-In this repository you will find documentation and code files for two distinct projects regarding implementation of Computer Vision algorithms using MATLAB. These projects were completed and submitted for credit in a 400 level Computer Vision course at The Pennsylvanina State University. 
+In this repository you will find documentation and code files for three distinct projects regarding implementation of Computer Vision algorithms using MATLAB. These projects were completed and submitted for credit in a 400 level Computer Vision course at The Pennsylvanina State University. 
 
 ### Template Matching
 
