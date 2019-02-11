@@ -14,7 +14,7 @@ of an image, to then convert those 2D points back into 3D viewing rays, and then
 the viewing rays of two camera views to recover the original 3D coordinates we started with.
 
 For a detailed quantitative and qualitative report on the results of this project, please click 
-on the "View on GitHub" icon at the top of this screen and navigate to Project 2 > Documentation > EE 454 Computer Vision Project2.pdf
+on the "View on GitHub" icon at the top of this screen and navigate to Project 2 > Documentation > EE_454_Project_2.pdf
 
 ### Motion Detection
 
