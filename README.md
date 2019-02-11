@@ -17,10 +17,10 @@ the viewing rays of two camera views to recover the original 3D coordinates we s
 
 The goal of this project was to implement four simple motion detection algorithms, run them on 
 short videos, and compare the results. The four algorithms are:
-  Simple Background Subtraction
-  Simple Frame Differencing
-  Adaptive Background Subtraction
-  Persistent Frame Differencing
+- Simple Background Subtraction
+- Simple Frame Differencing
+- Adaptive Background Subtraction
+- Persistent Frame Differencing
 
 We were required to implement all four in one program and generate, as output, a four-panel frame
 showing the results of each algorithm, on each video frame, and generate a video of the results.
